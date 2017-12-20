@@ -21,7 +21,7 @@ namespace ShopWinForm
 
         private void RegistracijaForm_Load(object sender, EventArgs e)
         {
-            pictureBox1.ImageLocation = @"C:\Users\igor\Desktop\BazaProjekatUvod\reg.png";
+            pictureBox1.ImageLocation = @"../../Images/reg.png";
             pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
         }
 

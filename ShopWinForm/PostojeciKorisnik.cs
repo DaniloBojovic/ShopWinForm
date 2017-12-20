@@ -86,7 +86,7 @@ namespace ShopWinForm
         private void PostojeciKorisnik_Load(object sender, EventArgs e)
         {
             this.ActiveControl = textBox1;
-            pictureBox1.ImageLocation = @"C:\Users\igor\Desktop\BazaProjekatUvod\log.png";
+            pictureBox1.ImageLocation = @"../../Images/log.png";
             pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
         }
 

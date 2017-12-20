@@ -77,7 +77,7 @@ namespace ShopWinForm
         private void AdminLogin_Load(object sender, EventArgs e)
         {
             this.ActiveControl = textBox1;
-            pictureBox1.ImageLocation = @"C:\Users\igor\Desktop\BazaProjekatUvod\logAdmin.png";
+            pictureBox1.ImageLocation = @"../../Images/logAdmin.png";
             pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
         }
 
